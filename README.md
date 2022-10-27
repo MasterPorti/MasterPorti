@@ -17,6 +17,11 @@ Desde entonces me e encargado en aprender lo que es mi pasion, E participado en 
 </br>
 Y alguna más...
 
+
+## Los retos de programación de la comunidad:
+
+![https://retosdeprogramacion.com](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/BannerZucre.png)
+
 ## Los retos de programación de la comunidad:
 
 ![https://retosdeprogramacion.com](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/RetosBannerPro.png)
