@@ -16,3 +16,7 @@ Desde entonces me e encargado en aprender lo que es mi pasion, E participado en 
 [![MySQL](https://img.shields.io/badge/React-C12862?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+## Los retos de programación de la comunidad:
+
+![https://retosdeprogramacion.com](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/RetosBannerPro.png)
