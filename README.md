@@ -18,7 +18,7 @@ Desde entonces me e encargado en aprender lo que es mi pasion, E participado en 
 Y alguna más...
 
 
-## Los retos de programación de la comunidad:
+## Proyecto Pasteleria Zucre (Launch-X-Latam):
 
 ![https://retosdeprogramacion.com](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/BannerZucre.png)
 
