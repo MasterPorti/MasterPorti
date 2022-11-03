@@ -20,7 +20,7 @@ Y alguna más...
 
 # My Proyects 🔥
 
-![https://retosdeprogramacion.com](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/BannerZucre.png)
+![https://github.com/MasterPorti?tab=repositories](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/ProyectBanner.png)
 
 ## Los retos de programación de la comunidad:
 
