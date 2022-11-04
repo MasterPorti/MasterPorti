@@ -1,6 +1,6 @@
 # ![https://https://github.com/MasterPorti](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/logoEmote.png)  Hola, mi nombre es Julio Morales 👋
 ### Jr Frontend Developer JavaScript, React, HTML, CSS, SQL
-![https://github.com/mouredev](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/Banner-np.png)
+![https://https://github.com/MasterPorti](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/Banner-np.png)
 
 Soy creador de software Web y desarrollador.
 
@@ -23,6 +23,9 @@ Y alguna más...
 ![https://github.com/MasterPorti?tab=repositories](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/ProyectBanner.png)
 ## Rock Paper Scissors: 
 <a href="https://masterporti.github.io/RockPaperScissors/code/"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/MainBannerRPS.png" style="height: 50%; width:50%;"/></a>
+<a href="https://masterporti.github.io/RockPaperScissors/code/"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/Complete2.png" style="height: 50%; width:30%;"/></a>
+## SNAP: 
+<a href="https://github.com/MasterPorti/Snap"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/MainBannerSnap.png" style="height: 50%; width:50%;"/></a>
 <a href="https://masterporti.github.io/RockPaperScissors/code/"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/Complete2.png" style="height: 50%; width:30%;"/></a>
 
 ## Los retos de programación de la comunidad:
