@@ -24,9 +24,11 @@ Y alguna más...
 ## Rock Paper Scissors: 
 <a href="https://masterporti.github.io/RockPaperScissors/code/"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/MainBannerRPS.png" style="height: 50%; width:50%;"/></a>
 <a href="https://masterporti.github.io/RockPaperScissors/code/"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/Complete2.png" style="height: 50%; width:30%;"/></a>
+### GitHub Repository here 🐱‍👤 **[Github.com/MasterPorti/RockPaperScissors](https://github.com/MasterPorti/RockPaperScissors)**
 ## SNAP: 
 <a href="https://github.com/MasterPorti/Snap"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/MainBannerSnap.png" style="height: 50%; width:50%;"/></a>
 <a href="https://masterporti.github.io/RockPaperScissors/code/"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/Complete2.png" style="height: 50%; width:30%;"/></a>
+### GitHub Repository here 🐱‍👤 **[Github.com/MasterPorti/Snap](https://github.com/MasterPorti/Snap)**
 
 ## Los retos de programación de la comunidad:
 
