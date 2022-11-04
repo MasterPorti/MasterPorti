@@ -23,6 +23,7 @@ Y alguna más...
 ![https://github.com/MasterPorti?tab=repositories](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/ProyectBanner.png)
 ## Rock Paper Scissors: 
 <a href="https://masterporti.github.io/RockPaperScissors/code/"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/MainBannerRPS.png" style="height: 50%; width:50%;"/></a>
+<a href="https://masterporti.github.io/RockPaperScissors/code/"><img src="https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/Complete.png" style="height: 50%; width:50%;"/></a>
 
 ## Los retos de programación de la comunidad:
 
