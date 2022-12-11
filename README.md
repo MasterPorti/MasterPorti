@@ -1,5 +1,5 @@
 # ![https://https://github.com/MasterPorti](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/logoEmote.png)  Hola, mi nombre es Julio Morales 👋
-### Jr Frontend Developer JavaScript, React, HTML, CSS, SQL
+### Jr FullStack Developer JavaScript, React, HTML, CSS, Node.Js, Astro, Express, Figma, SASS, Git
 ![https://https://github.com/MasterPorti](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/Banner-np.png)
 
 Soy creador de software Web y desarrollador.
