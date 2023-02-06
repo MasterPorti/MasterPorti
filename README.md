@@ -1,12 +1,12 @@
 # ![https://https://github.com/MasterPorti](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/logoEmote.png)  Hola, mi nombre es Julio Morales 👋
 
-# 💫 About Me:
+## 💫 About Me:
 💖 Desde que conoci el codigo no lo puedo dejar<br>🐕‍🦺 Soy un apasionado autodidacta que valora el trabajo en equipo y cree en la sinergia de diferentes perspectivas para alcanzar metas ambiciosas.<br>🤯 Me sigo sorprendiendo como lineas de codigo se transforman en algo genial<br>🪵 Cuando quiero algo lo busco y lo consigo
 
-# My Proyects 🔥
+## My Proyects 🔥
 
 ![https://github.com/MasterPorti?tab=repositories](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/ProyectBanner.png)
-## Season: 
+### Season: 
 
 
 
