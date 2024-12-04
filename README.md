@@ -1,4 +1,4 @@
-# ![https://https://github.com/MasterPorti](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/logoEmote.png)  Hola, mi nombre es Julio Morales 👋
+# ![https://https://github.com/MasterPorti](https://raw.githubusercontent.com/MasterPorti/MasterPorti/main/logoEmote.png)  👋
 
 ## 💫 About Me:
 💖 Desde que conoci el codigo no lo puedo dejar<br>🐕‍🦺 Soy un apasionado autodidacta que valora el trabajo en equipo y cree en la sinergia de diferentes perspectivas para alcanzar metas ambiciosas.<br>🤯 Me sigo sorprendiendo como lineas de codigo se transforman en algo genial<br>🪵 Cuando quiero algo lo busco y lo consigo
@@ -15,11 +15,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MasterPorti&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterPorti&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliogguerra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Julio_Guerra__) 
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Julio_Guerra__)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
