@@ -4,7 +4,6 @@
 🎓 **Ingeniero en Sistemas Computacionales** (A nada de graduarme 🚀)<br>
 💖 Desde que conocí el código no lo puedo dejar.<br>
 ☁️ **Self-hosting Enthusiast:** Me encanta gestionar mis propios servidores (VPS), desplegar con Coolify y experimentar con Linux.<br>
-🎨 **Digital Artist:** Me interesa la creación de ilustraciones estilizadas y assets digitales.<br>
 🐕‍🦺 Soy un apasionado autodidacta que valora el trabajo en equipo y cree en la sinergia de diferentes perspectivas.<br>
 🤯 Me sigo sorprendiendo cómo líneas de código se transforman en soluciones reales.<br>
 🪵 Cuando quiero algo lo busco y lo consigo.
